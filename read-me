@@ -1,3 +1,5 @@
+Credit of this work goes to: Chris Joseph (kjo@yorku.ca) and Michael B. McNally (mmcnally@ualberta.ca)
+
 OVERVIEW:
 This folder contains datasets used for analyzing the Canadian 3800 MHz spectrum auction. The files include bidder activity, bidding behavior, price evolution across rounds, product-level characteristics, and deployment cost information. The datasets support research on bidding strategies, valuation estimation, deployment incentives, and counterfactual auction simulations.
 
